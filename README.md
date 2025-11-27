@@ -12,7 +12,6 @@ I'm a **Full-Stack Software Developer** passionate about building **real-world s
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white) 
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -55,13 +54,13 @@ Implementations of classic algorithms including Boyer-Moore, DFS, fractional kna
 
 ## 💼 Looking For
 Graduate / Internship roles in:  
-**Software Development • Backend Engineering • Mobile Apps • Cloud/DevOps**  
+**Software Development • Backend Engineering • Mobile Apps**  
 
 
 
 ## 📬 Contact Me
 📧 Email: zkzide@gmail.com  
 🔗 LinkedIn: [Zetu Kuluvuyo Zide](www.linkedin.com/in/zetukuluvuyozide)  
-🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
+
 
 
