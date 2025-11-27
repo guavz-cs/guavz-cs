@@ -39,13 +39,12 @@ Implementations of classic algorithms including Boyer-Moore, DFS, fractional kna
 
 
 ## 🎓 Education
-**BSc Computer Science — Nelson Mandela University**  
-*Final year completed • Graduating 2026*  
+**BSc Computer Science — Nelson Mandela University**   
 
 
 
 ## 🌱 Currently Learning
-- Cloud + DevOps (AWS, Azure, Docker)  
+- Cloud + DevOps   
 - React for modern UI  
 - Advanced Spring Boot  
 - System design & scalability  
