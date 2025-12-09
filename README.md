@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Zetu Kuluvuyo Zide
 
-I'm a **Full-Stack Software Developer** passionate about building **real-world software solutions** that solve meaningful problems. I enjoy working across the stack, from backend logic to frontend design and mobile apps.  
+I'm a **Junior Software Developer** passionate about building **real-world software solutions** that solve meaningful problems. I enjoy working across the stack, from backend logic to frontend design and mobile apps.  
 
 
 
