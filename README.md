@@ -54,7 +54,7 @@ Implementations of classic algorithms including Boyer-Moore, DFS, fractional kna
 
 ## 💼 Looking For
 Graduate / Internship roles in:  
-**Software Development • Backend Engineering • Mobile Apps**  
+**Software Development • Backend Engineering • Web & Mobile Apps**  
 
 
 
