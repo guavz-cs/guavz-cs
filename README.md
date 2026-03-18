@@ -40,7 +40,7 @@ Implementations of classic algorithms including Boyer-Moore, DFS, fractional kna
 
 
 ## 🎓 Education
-**BSc Computer Science & Mathematics — Nelson Mandela University**   
+**BSc Computer Science & Mathematics - Nelson Mandela University**   
 
 
 
